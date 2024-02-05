@@ -12,7 +12,7 @@ html ,body{
 #bg{
     height: 100%;
     width: 100%;
-    background-image: url(/Landing\ page/bimg.jpg);
+    background-image: url(/bimg.jpg);
     background-size: cover;
 }
 
